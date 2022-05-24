@@ -5,8 +5,6 @@
 - 🌱 I’m currently learning js
 - 👯 I’m looking to collaborate on js
 - 🤔 I’m looking for help with js
-- 💬 Ask me about .
 - 📫 How to reach me: https://www.linkedin.com/in/md-fahad-053038184/
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+
 -->
